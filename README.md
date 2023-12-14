@@ -1,4 +1,8 @@
 # Dream-Gate
   creative holiday wish 
   website make a wishes for holiday
-![](https://github.com/manonaSamir/Dream-Gate/blob/main/photographic-art-matte-painting-a-pretty-girl-entering-colorful-doorway-leading-to-a-bright-sky-wi-440440082.png)
+  Create website using (HTML & CSS & Java script & Jquery) 
+   Home section contains animated & musical 
+   ![](https://github.com/manonaSamir/Dream-Gate/blob/main/home.png)
+   gates section contains (some games & javascript tricks) 
+   ![](https://github.com/manonaSamir/Dream-Gate/blob/main/home.png)
